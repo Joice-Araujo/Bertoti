@@ -37,4 +37,6 @@ Escreva dois exemplos de trade-offs envolvendo requisitos não funcionais.
 outro ex: performance vs curva de aprendizagem, rust, go.
 
 
+Diagrama de Classe UML
 
+https://github.com/Joice-Araujo/bertoti/blob/main/Engenharia%20de%20Software%201/img/Diagrama%20de%20classe%20Java%20Bertoti.png
