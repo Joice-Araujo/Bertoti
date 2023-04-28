@@ -39,4 +39,11 @@ outro ex: performance vs curva de aprendizagem, rust, go.
 
 Diagrama de Classe UML
 
-https://github.com/Joice-Araujo/bertoti/blob/main/Engenharia%20de%20Software%201/img/Diagrama%20de%20classe%20Java%20Bertoti.png
+
+
+<br>
+
+<img src="https://github.com/Joice-Araujo/bertoti/blob/main/Engenharia%20de%20Software%201/img/Diagrama%20de%20classe%20Java%20Bertoti.png" alt="Diagrama de Classe UML" style="zoom: 150%;" />
+
+<br>
+
