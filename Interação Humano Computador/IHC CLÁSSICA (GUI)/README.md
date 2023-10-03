@@ -9,7 +9,8 @@
 <p>No vídeo abaixo temos o app BibliON, onde ao ir em pesquisar temos a opção de listas de livros feitas por usuários, ao escolher uma das listas e visualizar, o usuário ao voltar não volta para as listas e sim para a página de pesquisa.  </p>
 
 <br>
-</img src="./img/BibliON.gif" alt="Tela pesquisa BibliON">
+
+![hippo](https://github.com/Joice-Araujo/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/IHC%20CL%C3%81SSICA%20(GUI)/img/BibliON.gif?raw=true)
 <br>
 
 <h4>4. Consistência e padrões</h4>
