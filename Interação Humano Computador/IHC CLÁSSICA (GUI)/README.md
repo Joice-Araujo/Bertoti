@@ -5,14 +5,6 @@
 <h4> 1. Visibilidade de qual estado estamos no sistema</h4>
 <h4>2. Correspondência entre o sistema e o mundo real</h4>
 <h4>3. Liberdade de controle fácil pro usuáriol</h4>
-
-<p>No vídeo abaixo temos o app BibliON, onde ao ir em pesquisar temos a opção de listas de livros feitas por usuários, ao escolher uma das listas e visualizar, o usuário ao voltar não volta para as listas e sim para a página de pesquisa.  </p>
-
-<br>
-
-![hippo](https://github.com/Joice-Araujo/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/IHC%20CL%C3%81SSICA%20(GUI)/img/BibliON.gif?raw=true)
-<br>
-
 <h4>4. Consistência e padrões</h4>
 <h4>5. Prevenções de erros</h4>
 <h4>6. Reconhecimento em vez de memorização</h4>
@@ -21,6 +13,16 @@
 <h4>9. Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</h4>
 <h4>10. Ajuda e documentação</h4>
 
+<p>Heurística 3<p>
+<p>No vídeo abaixo temos o app BibliON, onde ao ir em pesquisar temos a opção de listas de livros feitas por usuários, ao escolher uma das listas e visualizar, o usuário ao voltar não volta para as listas e sim para a página de pesquisa.  </p>
+
+<br>
+
+![hippo](https://github.com/Joice-Araujo/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/IHC%20CL%C3%81SSICA%20(GUI)/img/BibliON.gif?raw=true)
+<br>
+
+<p>Heusriatica 3,6,7<p>
+<p> O app da Santa Casa, para agendar uma consulta não é feito no próprio app, é aberto o navegador onde o usuário é obrigado a logar para agendar uma consulta, para agendar a consulta depois de preencher os campos se o usuário não tem um médico em mente, ele precisa escolher um médico adicionar uma consulta pra ver a disponibilidade dos horários, se não se adequar com sua agenda é preciso voltar excluir a consulta para escolher outro médico e ver os horários disponíveis de outro médico. <p>
 
 
 
