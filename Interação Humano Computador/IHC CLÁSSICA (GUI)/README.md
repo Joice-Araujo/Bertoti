@@ -23,7 +23,36 @@
 
 <p>Heusriatica 3,6,7<p>
 <p> O app da Santa Casa, para agendar uma consulta não é feito no próprio app(Imagem 1), é aberto o navegador onde o usuário é obrigado a logar para agendar uma consulta(Imagem 2), para agendar a consulta depois de preencher os campos, se o usuário não tem um médico em mente, ele precisa escolher um médico adicionar uma consulta pra ver a disponibilidade dos horários (Imagem 3), se não se adequar com sua agenda é preciso voltar excluir a consulta para escolher outro médico e ver os horários disponíveis de outro médico(Imagem 5).<p>
+  
+ <figure>
+    
+<img src="img/Santa_Casa_1.jpg" width="300px">
+<figcaption>Imagem 1</figcaption> 
 
-![![Alt text](img/Santa_Casa_1.jpg)]
+</figure>
+ <figure>
+    
+<img src="img/Santa_Casa_2.jpg" width="300px">
+<figcaption>Imagem 1</figcaption> 
+
+</figure>
+ <figure>
+    
+<img src="img/Santa_Casa_3.jpg" width="300px">
+<figcaption>Imagem 1</figcaption> 
+
+</figure>
+ <figure>
+    
+<img src="img/Santa_Casa_4.jpg" width="300px">
+<figcaption>Imagem 1</figcaption> 
+
+</figure>
+
+
+
+    
+
+
 
 
