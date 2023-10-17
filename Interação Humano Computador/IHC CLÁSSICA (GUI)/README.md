@@ -66,7 +66,7 @@
 
 <figure>
     
-<img src="img/unip.jpg" width="300px">
+<img src="img/unip.jpg" >
 <figcaption>Imagem 4</figcaption> 
 
 </figure>
