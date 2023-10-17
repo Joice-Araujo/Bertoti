@@ -49,6 +49,32 @@
 
 </figure>
 
+<p>Heusriatica 1<p>
+
+<p>No print abaixo podemos ver o carregamento de um boleto dos correios para baixar, não é dado nenhuma estimativa de tempo, no final, não foi possivel gerar o pdf do boleto nem copiar o código de barras.<p>
+
+ <figure>
+    
+<img src="img/correios.jpeg" width="300px">
+<figcaption>Imagem 4</figcaption> 
+
+</figure>
+
+<p>Heusriatica 2<p>
+
+<p>Na print abaixo temos a entrega de trabalho, onde os azuis correspondem a trabalhos que posem ser entregues, quando entregues a unica coisa que indica essa mudança é o status, sua cor não muda, seguindo a lógica poderia ficar amarelo, já que as outras cores correspondem a status que já estamos acostumados <p>
+
+<figure>
+    
+<img src="img/unip.jpg" width="300px">
+<figcaption>Imagem 4</figcaption> 
+
+</figure>
+
+
+
+
+
 
 
     
