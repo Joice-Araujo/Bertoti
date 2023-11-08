@@ -13,6 +13,27 @@
 <h4>9. Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</h4>
 <h4>10. Ajuda e documentação</h4>
 
+
+
+
+<p>Heusriatica 1<p>
+
+<p>No print abaixo podemos ver o carregamento de um boleto dos correios para baixar, não é dado nenhuma estimativa de tempo, no final, não foi possivel gerar o pdf do boleto nem copiar o código de barras.<p>
+
+ <figure>  
+ <img src="img/correios.jpeg" width="300px"> 
+ </figure>
+
+
+ <p>Heusriatica 2<p>
+
+<p>Na print abaixo temos a entrega de trabalho, onde os azuis correspondem a trabalhos que posem ser entregues, quando entregues a unica coisa que indica essa mudança é o status, sua cor não muda, seguindo a lógica poderia ficar amarelo, já que as outras cores correspondem a status que já estamos acostumados <p>
+
+<figure> 
+<img src="img/unip.jpg" >
+</figure>
+
+
 <p>Heurística 3<p>
 <p>No vídeo abaixo temos o app BibliON, onde ao ir em pesquisar temos a opção de listas de livros feitas por usuários, ao escolher uma das listas e visualizar, o usuário ao voltar não volta para as listas e sim para a página de pesquisa.  </p>
 
@@ -29,25 +50,14 @@
 </figure>
 
 
-<p>Heusriatica 1<p>
 
-<p>No print abaixo podemos ver o carregamento de um boleto dos correios para baixar, não é dado nenhuma estimativa de tempo, no final, não foi possivel gerar o pdf do boleto nem copiar o código de barras.<p>
+<p>Heusriatica 5, 9<p>
 
- <figure>  
-<img src="img/correios.jpeg" width="300px"> 
-</figure>
-
-<p>Heusriatica 2<p>
-
-<p>Na print abaixo temos a entrega de trabalho, onde os azuis correspondem a trabalhos que posem ser entregues, quando entregues a unica coisa que indica essa mudança é o status, sua cor não muda, seguindo a lógica poderia ficar amarelo, já que as outras cores correspondem a status que já estamos acostumados <p>
+<p>No site abaixo o para reserva de transportes, na parte da senha não aparece a informação inteira para o usuário, e mesmo tentando me cadastrar diferentes dos outros campos não há informação do que falta para a senha ser completa e aceita.<p>
 
 <figure> 
-<img src="img/unip.jpg" >
+<img src="img/senhaCadastro.jpg" >
 </figure>
-
-
-
-
 
 
 
