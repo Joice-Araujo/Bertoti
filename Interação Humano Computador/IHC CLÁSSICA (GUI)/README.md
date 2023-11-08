@@ -26,28 +26,10 @@
   
  <figure>
     
-<img src="img/Santa_Casa_1.jpg" width="300px">
-<figcaption>Imagem 1</figcaption> 
-
+<img src="img/SntCasa.jpg">
+ 
 </figure>
- <figure>
-    
-<img src="img/Santa_Casa_2.jpg" width="300px">
-<figcaption>Imagem 2</figcaption> 
 
-</figure>
- <figure>
-    
-<img src="img/Santa_Casa_3.jpg" width="300px">
-<figcaption>Imagem 3</figcaption> 
-
-</figure>
- <figure>
-    
-<img src="img/Santa_Casa_4.jpg" width="300px">
-<figcaption>Imagem 4</figcaption> 
-
-</figure>
 
 <p>Heusriatica 1<p>
 
