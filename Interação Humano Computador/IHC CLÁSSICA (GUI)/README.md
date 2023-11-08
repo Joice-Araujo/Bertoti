@@ -56,7 +56,7 @@
 <p>No site abaixo o para reserva de transportes, na parte da senha não aparece a informação inteira para o usuário, e mesmo tentando me cadastrar diferentes dos outros campos não há informação do que falta para a senha ser completa e aceita.<p>
 
 <figure> 
-<img src="img/senhaCadastro.jpg" >
+<img src="img/senhaCadastro.png" >
 </figure>
 
 
