@@ -24,10 +24,8 @@
 <p>Heusriatica 3,6,7<p>
 <p> O app da Santa Casa, para agendar uma consulta não é feito no próprio app(Imagem 1), é aberto o navegador onde o usuário é obrigado a logar para agendar uma consulta(Imagem 2), para agendar a consulta depois de preencher os campos, se o usuário não tem um médico em mente, ele precisa escolher um médico adicionar uma consulta pra ver a disponibilidade dos horários (Imagem 3), se não se adequar com sua agenda é preciso voltar excluir a consulta para escolher outro médico e ver os horários disponíveis de outro médico(Imagem 5).<p>
   
- <figure>
-    
+ <figure>   
 <img src="img/SntCasa.jpg">
- 
 </figure>
 
 
@@ -35,22 +33,16 @@
 
 <p>No print abaixo podemos ver o carregamento de um boleto dos correios para baixar, não é dado nenhuma estimativa de tempo, no final, não foi possivel gerar o pdf do boleto nem copiar o código de barras.<p>
 
- <figure>
-    
-<img src="img/correios.jpeg" width="300px">
-<figcaption>Imagem 4</figcaption> 
-
+ <figure>  
+<img src="img/correios.jpeg" width="300px"> 
 </figure>
 
 <p>Heusriatica 2<p>
 
 <p>Na print abaixo temos a entrega de trabalho, onde os azuis correspondem a trabalhos que posem ser entregues, quando entregues a unica coisa que indica essa mudança é o status, sua cor não muda, seguindo a lógica poderia ficar amarelo, já que as outras cores correspondem a status que já estamos acostumados <p>
 
-<figure>
-    
+<figure> 
 <img src="img/unip.jpg" >
-<figcaption>Imagem 4</figcaption> 
-
 </figure>
 
 
