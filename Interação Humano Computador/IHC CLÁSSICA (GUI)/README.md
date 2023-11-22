@@ -70,7 +70,7 @@
 <p>Boa documentação para a realização de compras, mesmo sendo algo que as pessoas já estão acostumadas hoje ele é atualizado e traz atualizações<p>
 
 <figure> 
-<img src="img/documentacao.png" >
+<img src="img/ducumentacao.jpg" >
 </figure>
 
     
