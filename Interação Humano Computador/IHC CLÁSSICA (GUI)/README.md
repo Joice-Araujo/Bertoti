@@ -47,7 +47,7 @@
  <p>Todos os horários são possiveis de ordenar menos o primeiro, e essa ordenação não é sinalizada, descobri por outra pessoa. <p>
 
  <figure> 
-<img src="img/siga_heuri_4.jpg" width="300px" >
+<img src="img/siga_heuri_4.jpg" width="500px" >
 </figure>
 
 
@@ -64,7 +64,7 @@
 
 <p>A quantidade de propagandas não favorece um design minimalista<p>
  <figure>   
-<img src="img/Propaganda.jpg">
+<img src="img/Propaganda.jpg" width="400px">
 </figure>
 
 
