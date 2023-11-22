@@ -42,6 +42,17 @@
 ![hippo](https://github.com/Joice-Araujo/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/IHC%20CL%C3%81SSICA%20(GUI)/img/BibliON.gif?raw=true)
 <br>
 
+ <p>Heusriatica 4<p>
+
+ <p>Todos os horários são possiveis de ordenar menos o primeiro, e essa ordenação não é sinalizada, descobri por outra pessoa. <p>
+
+ <figure> 
+<img src="img/siga_heuri_4" >
+</figure>
+
+
+
+
 <p>Heusriatica 3,6,7<p>
 <p> O app da Santa Casa, para agendar uma consulta não é feito no próprio app(Imagem 1), é aberto o navegador onde o usuário é obrigado a logar para agendar uma consulta(Imagem 2), para agendar a consulta depois de preencher os campos, se o usuário não tem um médico em mente, ele precisa escolher um médico adicionar uma consulta pra ver a disponibilidade dos horários (Imagem 3), se não se adequar com sua agenda é preciso voltar excluir a consulta para escolher outro médico e ver os horários disponíveis de outro médico(Imagem 5).<p>
   
