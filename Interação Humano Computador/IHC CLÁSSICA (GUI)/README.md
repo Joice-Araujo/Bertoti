@@ -64,7 +64,7 @@
 
 <p>A quantidade de propagandas não favorece um design minimalista<p>
  <figure>   
-<img src="img/Propaganda.jpg" width="400px">
+<img src="img/Propaganda.jpg" width="300px">
 </figure>
 
 
