@@ -49,6 +49,12 @@
 <img src="img/SntCasa.jpg">
 </figure>
 
+<p>Heusriatica 8 <p>
+
+<p>A quantidade de propagandas não favorece um design minimalista<p>
+ <figure>   
+<video src="img/propagandas.mp4" controls title="<img src="img/">"></video>
+</figure>
 
 
 <p>Heusriatica 5, 9<p>
@@ -59,7 +65,13 @@
 <img src="img/senhaCadastro.png" >
 </figure>
 
+<p>Heusriatica 10<p>
 
+<p>Boa documentação para a realização de compras, mesmo sendo algo que as pessoas já estão acostumadas hoje ele é atualizado e traz atualizações<p>
+
+<figure> 
+<img src="img/documentacao.png" >
+</figure>
 
     
 
