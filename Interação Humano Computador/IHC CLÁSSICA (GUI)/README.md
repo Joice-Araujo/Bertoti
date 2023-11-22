@@ -47,7 +47,7 @@
  <p>Todos os horários são possiveis de ordenar menos o primeiro, e essa ordenação não é sinalizada, descobri por outra pessoa. <p>
 
  <figure> 
-<img src="img/siga_heuri_4" >
+<img src="img/siga_heuri_4.jpg" width="300px" >
 </figure>
 
 
