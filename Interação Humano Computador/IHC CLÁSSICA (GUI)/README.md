@@ -53,7 +53,7 @@
 
 <p>A quantidade de propagandas não favorece um design minimalista<p>
  <figure>   
-<video src="img/propagandas.mp4" controls title="<img src="img/">"></video>
+<img src="img/Propaganda.jpg">
 </figure>
 
 
