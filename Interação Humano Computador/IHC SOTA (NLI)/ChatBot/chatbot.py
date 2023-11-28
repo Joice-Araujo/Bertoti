@@ -3,7 +3,8 @@ import requests
 from telebot import types
 
 # Substitua 'TOKEN' pelo token gerado pelo BotFather.
-token = '6964788071:AAHkUP7_WdMYolRnV8G0x5iGCUfN1ad4IVg'
+#token = '6964788071:AAHkUP7_WdMYolRnV8G0x5iGCUfN1ad4IVg'
+token = '6329879110:AAG0E2H2-tmDFWcUgvEFTzWbcbS6xyhI-_Y'
 
 url = 'https://newsapi.org/v2/top-headlines?country=br&apiKey='
 
