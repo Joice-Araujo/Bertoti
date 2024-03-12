@@ -1,1 +1,1 @@
-UML
+Diagrama UML Strategy
