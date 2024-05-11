@@ -12,7 +12,7 @@ public class Cinco implements IDesconto{
 
     @Override
     public void Descontar() {
-        System.out.println("Você recebeu um desconto de 5%");      
+        System.out.println("Voce recebeu um desconto de 5%");      
     }
     
 }

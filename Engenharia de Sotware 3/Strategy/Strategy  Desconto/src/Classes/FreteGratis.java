@@ -12,7 +12,7 @@ public class FreteGratis implements IDesconto{
      
     @Override
     public void Descontar(){
-        System.out.println("Você ganhou Frete Grátis!");
+        System.out.println("Voce ganhou Frete Gratis!");
     }
     
     
