@@ -27,7 +27,14 @@ public class Observer_Pé_de_Pato {
         estoq01.enviar(resp01);
         estoq01.setQuantidade(quantidadeEstoque);
         
-               
+
+        BigDecimal quantidadeEstoque02 = new BigDecimal("45");
+        
+        Painel_de_Compras resp02 = new Painel_de_Compras("Ana");
+        
+        Estoque estoq02 = new Estoque (" Pe de pato azul", quantidadeEstoque02);
+        estoq02.enviar(resp02);
+        estoq02.setQuantidade(quantidadeEstoque02);
         
     }
     
