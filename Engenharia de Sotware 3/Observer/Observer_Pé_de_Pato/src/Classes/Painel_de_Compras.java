@@ -31,18 +31,17 @@ public class Painel_de_Compras implements Observer{
 
     @Override
     public void update(Estoque estoque) {
+    BigDecimal quantidade = estoque.getQuantidade();
+    BigDecimal limite = new BigDecimal("30");
+    if (quantidade.compareTo(limite) < 0) {
         
-        BigDecimal quantidade = estoque.getQuantidade();
-        BigDecimal limite = new BigDecimal("30");
-        if(quantidade.compareTo(limite)<0){
+        System.out.println(responsavel + ":" + estoque.getProduto() + " esta com baixo estoque! " + estoque.getQuantidade() + " unidades ");
         
-            System.out.println(responsavel + ":" + estoque.getProduto() + " esta com baixo estoque! " + estoque.getQuantidade() + " unidades ");
-              
+    } else if (quantidade.compareTo(limite) > 0) {
         
-        }
-        
-        
+        System.out.println(responsavel + ":" + estoque.getProduto() + " em estoque " + estoque.getQuantidade() + " unidades ");
     }
+}
     
     
     
